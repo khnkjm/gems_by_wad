@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/khnkjm/gems_by_wad/static/css/main.46b5abc9.chunk.css",
-    "main.js": "/khnkjm/gems_by_wad/static/js/main.dd5f3901.chunk.js",
-    "main.js.map": "/khnkjm/gems_by_wad/static/js/main.dd5f3901.chunk.js.map",
-    "runtime-main.js": "/khnkjm/gems_by_wad/static/js/runtime-main.14efef3e.js",
-    "runtime-main.js.map": "/khnkjm/gems_by_wad/static/js/runtime-main.14efef3e.js.map",
-    "static/js/2.0777eb1c.chunk.js": "/khnkjm/gems_by_wad/static/js/2.0777eb1c.chunk.js",
-    "static/js/2.0777eb1c.chunk.js.map": "/khnkjm/gems_by_wad/static/js/2.0777eb1c.chunk.js.map",
-    "static/js/3.c226bd2c.chunk.js": "/khnkjm/gems_by_wad/static/js/3.c226bd2c.chunk.js",
-    "static/js/3.c226bd2c.chunk.js.map": "/khnkjm/gems_by_wad/static/js/3.c226bd2c.chunk.js.map",
-    "index.html": "/khnkjm/gems_by_wad/index.html",
-    "static/css/main.46b5abc9.chunk.css.map": "/khnkjm/gems_by_wad/static/css/main.46b5abc9.chunk.css.map",
-    "static/js/2.0777eb1c.chunk.js.LICENSE.txt": "/khnkjm/gems_by_wad/static/js/2.0777eb1c.chunk.js.LICENSE.txt",
-    "static/media/SearchBar.css": "/khnkjm/gems_by_wad/static/media/navbar-image.71f51faf.jpg"
+    "main.css": "/gems_by_wad/static/css/main.0ddd72ef.chunk.css",
+    "main.js": "/gems_by_wad/static/js/main.143565d6.chunk.js",
+    "main.js.map": "/gems_by_wad/static/js/main.143565d6.chunk.js.map",
+    "runtime-main.js": "/gems_by_wad/static/js/runtime-main.a0552745.js",
+    "runtime-main.js.map": "/gems_by_wad/static/js/runtime-main.a0552745.js.map",
+    "static/js/2.0777eb1c.chunk.js": "/gems_by_wad/static/js/2.0777eb1c.chunk.js",
+    "static/js/2.0777eb1c.chunk.js.map": "/gems_by_wad/static/js/2.0777eb1c.chunk.js.map",
+    "static/js/3.c226bd2c.chunk.js": "/gems_by_wad/static/js/3.c226bd2c.chunk.js",
+    "static/js/3.c226bd2c.chunk.js.map": "/gems_by_wad/static/js/3.c226bd2c.chunk.js.map",
+    "index.html": "/gems_by_wad/index.html",
+    "static/css/main.0ddd72ef.chunk.css.map": "/gems_by_wad/static/css/main.0ddd72ef.chunk.css.map",
+    "static/js/2.0777eb1c.chunk.js.LICENSE.txt": "/gems_by_wad/static/js/2.0777eb1c.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/gems_by_wad/static/media/navbar-image.71f51faf.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.14efef3e.js",
+    "static/js/runtime-main.a0552745.js",
     "static/js/2.0777eb1c.chunk.js",
-    "static/css/main.46b5abc9.chunk.css",
-    "static/js/main.dd5f3901.chunk.js"
+    "static/css/main.0ddd72ef.chunk.css",
+    "static/js/main.143565d6.chunk.js"
   ]
 }
